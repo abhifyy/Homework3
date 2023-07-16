@@ -8,7 +8,7 @@ This repository contains the solutions for various lab exercises in the CIS 2348
 - [10.11 CIS 2348 LAB: Nutritional information (classes/constructors)](#lab-1011-cis-2348-lab-nutritional-information-classesconstructors)
 - [10.15 CIS 2348 LAB: Winning team (classes)](#lab-1015-cis-2348-lab-winning-team-classes)
 - [10.17 CIS 2348 LAB*: Warm up: Online shopping cart (Part 1)](#lab-1017-cis-2348-lab-warm-up-online-shopping-cart-part-1)
-- [10.29 CIS 2348 LAB*: Program: Online shopping cart (Part 2)](#lab-1019-cis-2348-lab-program-online-shopping-cart-part-2)
+- [10.29 CIS 2348 LAB*: Program: Online shopping cart (Part 2)](#lab-1029-cis-2348-lab-program-online-shopping-cart-part-2)
 - [11.18 CIS 2348 LAB: Filter and sort a list](#lab-1118-cis-2348-lab-filter-and-sort-a-list)
 - [11.22 CIS 2348 LAB: Word frequencies](#lab-1122-cis-2348-lab-word-frequencies)
 - [11.27 CIS 2348 LAB*: Program: Soccer team roster (Dictionaries)](#lab-1127-cis-2348-lab-program-soccer-team-roster-dictionaries)
@@ -37,7 +37,7 @@ For the complete program that uses the `ItemToPurchase` class, please refer to t
 
 The `ItemToPurchase` class is extended to contain a new attribute, `item_description`. The `print_item_description()` method is implemented to print the item's description. The `ShoppingCart` class is built with the specified data attributes and related methods.
 
-For the complete program that extends the online shopping cart, please refer to the following link: [10.19zybooks.py](https://github.com/abhifyy/Homework3/blob/main/10.29zybooks.py)
+For the complete program that extends the online shopping cart, please refer to the following link: [10.29zybooks.py](https://github.com/abhifyy/Homework3/blob/main/10.29zybooks.py)
 
 ## Lab 11.18 CIS 2348 LAB: Filter and sort a list
 
