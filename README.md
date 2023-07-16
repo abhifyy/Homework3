@@ -1,7 +1,7 @@
 # Homework3
 # CIS 2348 Labs
 
-This repository contains the solutions for various lab exercises in the CIS 2348 course. Each lab exercise is implemented in Python and organized into separate files.
+This repository contains the solutions for various lab exercises in the CIS 2348 course. Each lab exercise is implemented in Python and organized into separate files. I've used exceptional handling to satisfy all the cases in zybooks.
 
 ## Lab List
 
