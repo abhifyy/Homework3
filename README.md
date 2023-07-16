@@ -59,6 +59,6 @@ For the complete program that manages a soccer team roster using dictionaries, p
 
 ## Contact
 
-- Your Name
-- PSID: XXXXXXX
-- Email: your-email@example.com
+- Abhimanyu Kidarithil Meethal
+- PSID: 2105385
+- Email: bsabhimanyu@gmail.com
